@@ -7,8 +7,8 @@ import (
 	"encoding/json"
 	"log"
 	"net/http"
-	"github.com\sidmod\project\helper"
-	"github.com\sidmod\project\models"
+	"github.com/sidmod/project/helper"
+	"github.com/sidmod/project/models"
 	"github.com/gorilla/mux"
 	"go.mongodb.org/mongo-driver/bson"
 )
